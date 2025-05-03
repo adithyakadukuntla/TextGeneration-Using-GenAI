@@ -102,7 +102,7 @@ curl "http://localhost:7860/generate?text=Explain%20quantum%20computing"
 
 Install them using:
 ```sh
-pip install fastapi uvicorn transformers
+pip install -r requirements.txt
 ```
 
 ---
